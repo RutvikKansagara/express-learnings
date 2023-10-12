@@ -39,4 +39,4 @@ Express was created to streamline the development of APIs and web applications. 
 - Challenges related to callbacks, which may result in callback hell.
 - Difficulty in understanding error messages.
 
-*Note: This README provides a brief overview of Express JS, its features, advantages, and limitations. For detailed information and documentation, refer to the [official Express.js documentation](https://expressjs.com/).*
+
